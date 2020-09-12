@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Tarmeez and Dhad 
-- 🌱 I’m currently learning Deno and serverless 
+- 🔭 I’m currently working at Dhad
+- 🌱 I’m currently learning serverless 
 - 👯 I’m looking to collaborate on anything 
 - 📫 How to reach me: @ramisalemjs on Twitter 
 
