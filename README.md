@@ -1,6 +1,6 @@
 ### Hi there 👋 , This is Rami
 
-- 🔭 I’m currently working at Alef ba 
+- 🔭 I’m currently working at Tarmeez
 - 🌱 I’m currently learning serverless 
 - 👯 I’m looking to collaborate on anything 
 - 📫 How to reach me: @ramisalemjs on Twitter 
