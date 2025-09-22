@@ -1,9 +1,9 @@
 ### Hi there 👋 , This is Rami
 
-- 🔭 I’m currently working at NHC
+
 - 🌱 I’m currently learning serverless 
 - 👯 I’m looking to collaborate on anything 
-- 📫 How to reach me: @ramisalemjs on Twitter 
+
 
 <!--
 **ramisalem/ramisalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
